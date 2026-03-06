@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+/* Scan existing templates in this legacy project structure. */
+@source "./**/*.{php,html,js}";
+@source "../libary/**/*.{php,html,js}";
